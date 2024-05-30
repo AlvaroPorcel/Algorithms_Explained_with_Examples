@@ -26,7 +26,7 @@ class Road {
     }
 }
 
-public class Task1 {
+public class Graph_Algorithm {
 
     private static List<Ciudad> cities = new ArrayList<>();
     private static List<List<Road>> adjList = new ArrayList<>();
